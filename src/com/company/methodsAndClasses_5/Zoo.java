@@ -1,4 +1,4 @@
-package com.company;
+package com.company.methodsAndClasses_5;
 
 public class Zoo {
     public static void main(String[] args) {
